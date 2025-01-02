@@ -1,4 +1,4 @@
-# [Happy Birthday, Orly!](https://hb-orly-server.onrender.com)
+# [Happy Birthday, Zafyan!](https://hb-orly-server.onrender.com)
 
 Simple HTML5 game created for the birthday of my beloved girlfriend Orly.  
 Built with [Phaser 3](https://phaser.io/phaser3) game framework.  
