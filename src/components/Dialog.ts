@@ -18,7 +18,7 @@ const DIALOGS: ILevelDialog[] = [
 			'Who is the best guy in the world?<br>' +
 			'<span class="dialog-hint">(...he made this game)</span>',
 		answers: [
-    'Abdullah',
+         'Abdullah',
 			'alex',
 			'alexey',
 			'aleksey',
