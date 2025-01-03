@@ -11,7 +11,7 @@ const DIALOGS: ILevelDialog[] = [
 	{
 		question: 'What is your name?',
 		answers: ['Zafyan', 'orly', 'орли', 'אורלי'],
-		hint: '(?) This game is made for my beloved girlfriend...'
+		hint: '(?) This game is made for my beloved Best friend...'
 	},
 	{
 		question:
